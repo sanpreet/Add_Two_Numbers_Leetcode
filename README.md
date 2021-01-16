@@ -38,4 +38,12 @@ Space Complexity
 
 Since the list is used in the code to save the result which will cover extra auxiliary space and hence space complexity of O(n) is taken by the code.
   
+Question 2: Check whether permutation palindrome of a string. Code idea goes to [LucidProgramming](https://www.youtube.com/watch?v=dCnxQGMpKz0). There are two concepts to check permutation palindrome of the string and these are as below.  
+* Atmost single character can have count of one.  
+* Rest all characters have count of two or multiple of two.  
+
+See the below image to understand the concept in detail.    
+
+![palindrome_permutation](https://user-images.githubusercontent.com/3431730/104806661-33119780-57ff-11eb-8a9f-8ab5da8a3a90.jpg)
+
 
