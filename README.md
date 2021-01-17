@@ -44,6 +44,18 @@ Question 2: Check whether permutation palindrome of a string. Code idea goes to 
 
 See the below image to understand the concept in detail.    
 
-![palindrome_permutation](https://user-images.githubusercontent.com/3431730/104806661-33119780-57ff-11eb-8a9f-8ab5da8a3a90.jpg)
+![palindrome_permutation](https://user-images.githubusercontent.com/3431730/104806661-33119780-57ff-11eb-8a9f-8ab5da8a3a90.jpg)  
 
+### Pancake Problem  
 
+#### Time complexity:    
+
+For function **flip**: Complexity is O(k // 2) which is O(k).  
+             **max_index_func**: Complexity is O(n)
+             **pancake_sort**: Complexity is O(n)  
+             Overall complexity is O(n**2)    
+
+#### Space Complexity
+No auxiliary space is used for the program in any of the functions so it is O(1)  
+
+![pancakesort](https://user-images.githubusercontent.com/3431730/104834478-8f3eef00-58c5-11eb-9002-618e4598a108.jpg)
